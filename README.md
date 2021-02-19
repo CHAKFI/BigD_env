@@ -2,4 +2,4 @@
 
    @CHAKFI
    
-  <img src="C:/Users/Ahmed/Desktop/1.jpg">
+  <img src="/Users/Ahmed/Desktop/1.jpg">
